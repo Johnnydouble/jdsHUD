@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jdshud",
+  "name": "Johnnydouble's HUD",
+  "description": "Open your third eye!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "johnnydouble.dev/proj/jdsHUD",
+  "updateUrl": "",
+  "authorList": ["johnnydouble"],
+  "credits": "Nagi on minecraftforum.net",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
